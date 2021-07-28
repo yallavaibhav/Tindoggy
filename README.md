@@ -1,2 +1,2 @@
-TinDog Starting Files
-vhttps://yallavaibhav.github.io/Tindoggy/
+TinDog Website
+https://yallavaibhav.github.io/Tindoggy/
